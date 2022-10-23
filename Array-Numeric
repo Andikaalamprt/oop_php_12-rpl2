@@ -1,6 +1,0 @@
-<?php
-  badang mart {0}="keripik aneh";
-  badang mart [1]="minum cacing";
-
-  echo " $badang mart ={0} badang mart [1} ";
- ?>
